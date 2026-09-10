@@ -1,0 +1,16 @@
+# Instagram public profile stats, via og:description on instagram.com/<handle>/
+# Captured 2026-09-10. Label: OBSERVED.
+# Rows captured before Instagram IP-rate-limited this session. The remaining
+# benchmark handles are still owed — see docs/method.md on the rate limit.
+handle,followers,following,posts,name,captured
+oddspace.co,510,1,18,ODDspace,2026-09-10
+horstartsandmusic,109K,337,828,Horst Arts & Music,2026-09-10
+sonarfestival,331K,444,5875,Sónar,2026-09-10
+nuits_sonores,101K,823,433,Nuits sonores,2026-09-10
+slushhq,31K,4,698,Slush,2026-09-10
+# UNRESOLVED — rate-limited, retry with backoff or from another IP:
+# oddfest.fi, ronnytheodd, offfbarcelona, dekmantel_, flowfestivalhelsinki,
+# lgw_festival, kikkfestival, ars.electronica, _buildspace, mutek_montreal,
+# roskildefestival, itsnicethat
+# NOTE: handles "offf_festival" and "flowfestival" returned 5 and 14 followers
+# with 0 posts — those are squatted/empty handles, not the real accounts.
