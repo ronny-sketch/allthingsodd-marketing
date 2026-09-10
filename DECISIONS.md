@@ -65,7 +65,7 @@ into an unbranded newsletter and a plain `/newsroom`. At 110K LinkedIn followers
 | | Option | What it means | Cost |
 |---|---|---|---|
 | **A** | **All Things ODD = the website only.** Keep the shipped naming contract. ODD stays the masterbrand everywhere. Social handles migrate toward `ODD`, not `All Things ODD`. | Nothing to undo. Matches every Tier 1 benchmark. The website name becomes a wayfinding phrase, like "slush.org". | Loses the emotional appeal of a launch moment with a new name. |
-| **B** | **All Things ODD = the roof brand.** A real fourth layer. New handles, new newsletter identity, new podcast identity, all under All Things ODD. | Rewrites the shipped identity contract, the CI guard, and the JSON-LD entity graph. Costs the existing 3,341 LinkedIn followers and the Instagram audience if it means new accounts. Adds a naming layer that no benchmark of ODD's size sustains. | High, and largely irreversible on social. |
+| **B** | **All Things ODD = the roof brand.** A real fourth layer. New handles, new newsletter identity, new podcast identity, all under All Things ODD. | Rewrites the shipped identity contract, the CI guard, and the JSON-LD entity graph. Costs the existing **4,409 Instagram** and 3,341 LinkedIn followers if it means new accounts. **And `@allthingsodd` on Instagram is already taken** by a dormant account with 4 followers — so the matching handle is not even available. Adds a naming layer no benchmark of ODD's size sustains. | High, largely irreversible, and now partly blocked. |
 | **C** | **Hybrid.** ODD stays the spoken masterbrand; All Things ODD is the *platform* name used for owned media only — the site, the newsletter, the podcast — while events stay ODDfest/ODDference/ODDspace. | Gives the launch a name without touching the product brands. Closest to what Slush actually does now (`slush.org` + unbranded newsletter). | Requires discipline about where the phrase is allowed. Slush tried a version of this with Soaked and abandoned it. |
 
 **Recommendation: A, with C's website framing.** The strategy work should be allowed
@@ -86,13 +86,19 @@ Current state (`OBSERVED`, 2026-09-10):
 
 | Channel | Handle | Size |
 |---|---|---|
-| Instagram | `@oddfest.fi` | pending capture |
+| **Instagram** | **`@oddfest.co`** | **4,409 followers, 240 posts — the biggest channel** |
+| Instagram | `@ronnytheodd` (personal) | 3,626 followers |
+| LinkedIn | `linkedin.com/company/oddfest` | 3,341 followers |
 | Instagram | `@oddspace.co` | 510 followers |
-| LinkedIn | `linkedin.com/company/oddfest` | **3,341 followers** |
-| TikTok | `@oddfest` | not yet measured |
-| YouTube | `@oddfest` | not yet measured |
-| Facebook | `oddfest.fi` | not yet measured |
-| Discord | `discord.gg/ZXtkM6FjBw` | not yet measured |
+| Discord | *two invites in circulation* — `ZXtkM6FjBw` (site) and `PM6UY9tbjy` (zaap.bio) | 315 members |
+| YouTube | `@oddfest` | 24 subscribers |
+| TikTok | `@oddfest` | does not resolve |
+| Facebook | `profile.php?id=61572538992011` — **not** the `oddfest.fi` the site links to | not measured |
+| Instagram | `@oddfest.fi` | **does not exist — published on the live site** |
+
+**Handle availability, checked 2026-09-10:** `@allthingsodd` taken (dormant),
+`@all_things_odd` taken, `@oddagency` taken (unrelated). Free: `@oddference`,
+`@oddstudio.fi`, `@oddtheater`.
 
 **Every masterbrand-level channel is currently named after one product.** That is the
 real problem, and it is true regardless of how D1 resolves: `@oddfest` is being asked

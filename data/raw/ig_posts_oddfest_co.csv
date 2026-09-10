@@ -1,0 +1,19 @@
+# Instagram post-level capture, @oddfest.co and posts surfaced alongside it.
+# Method: Buildspace technique — /p/<shortcode>/embed/captioned/ loaded in an iframe
+# from an instagram.com page (same-origin), read from contentDocument. Chrome, logged out.
+# Captured 2026-09-10. Label: OBSERVED.
+# LIMIT: a logged-out profile exposes only 12 post links before the login wall.
+# @oddfest.co has 240 posts. The other 228 need an authenticated session.
+shortcode,author,likes,type,caption_summary
+DZmpMH-uNVv,oddfest.co,121,reel,"Thank you — 3 days, 200+ acts, 5 venues, 1 odd community"
+DZ15Yocju-c,oddfest.co,68,post,"ODDfest 2026 photo bank is live on Flickr"
+DZxqjSjjsyg,oddfest.co,52,post,"Creative Week captures live via photo bank"
+DZ7LFHMOpUe,oddfest.co,34,reel,"ODDference speakers/performers photographed by @ferookart"
+DZyNhm2sWKD,oddfest.co,26,post,"Thank you to media partners (Outshine, HBL…)"
+DZ4enanOcEb,oddfest.co,21,post,"Share your ODDfest experience — feedback form live"
+DZUwckdAKje,ronnytheodd,113,reel,"Last year we did something brave… we took a loss. We learned a lot."
+DceGT4OAnla,oddspace.co,,post,"ODDspace became Imagine for Taiteiden yö — UNDINE sound chairs"
+DZ8Cq--CiXv,smilefestival.de,135,post,"smile. showcase @oddfest.co in Helsinki"
+DadLz6mDX9I,aes.kuva,114,post,"Favourite work at @oddfest.co — great experience"
+DbQW94-FztM,saladfactory__,104,post,"Lenininpuisto lineup (third-party event)"
+DcLL8lEqIdx,abyss.bpm,,post,"ABYSS vol.1 at Delgalleria Espa (third-party event)"

@@ -21,7 +21,7 @@ Not context — constraints. Every one of these removes options.
 | **ODDfest 2027 has a September 2026 launch gate: 30 tickets minimum or wind down** | This is not a brand-building quarter. Marketing has ~weeks to produce a countable number. |
 | **€260K gap; 8 open critical items in the ODDfest/NNW domain** | No budget, no new hires, and Ronny's attention is the scarcest input in the system. Anything that needs weekly production from a person who doesn't exist will not happen. |
 | **1,514-person list at 60.9% open, silent 80 days** | The single best asset, and it is depreciating. |
-| **Social has produced 16 newsletter subscribers, ever** | Social is not currently an acquisition channel for ODD. Treating it as one is the mistake to avoid. |
+| **Social has produced 16 newsletter subscribers, ever** — against 4,409 Instagram + 3,341 LinkedIn followers | The audience is real and it is ODD's biggest. It has simply never been connected to anything. A conversion problem, not an audience problem. |
 | **No analytics** | We cannot optimise. We can only count things that count themselves — emails, tickets, members, replies. |
 | **5,000+ participants, 500+ collaborators, 100+ partners** | Against a 1,514-person list that is 84% one import. |
 
@@ -37,8 +37,11 @@ thousand people have physically attended something ODD made and cannot be contac
 again.
 
 Meanwhile the acquisition instinct — post more, grow the followers, launch the
-podcast — points *outward*, at strangers, through channels that have demonstrably
-delivered 16 subscribers in two years.
+podcast — points *outward*, at strangers. And the channels ODD already owns are
+bigger than anyone assumed: 4,409 people follow `@oddfest.co`, 3,341 follow the
+LinkedIn page, 3,626 follow Ronny. Between them they have delivered **16 newsletter
+subscribers in two years**, because nothing on any of them has ever pointed anywhere
+measurable.
 
 The logic of this plan: **stop trying to reach new people until you can reach the
 ones who already came.** Everything below serves that, and the growth work resumes
@@ -110,6 +113,15 @@ So the content hierarchy is:
 3. **A moment** — proof that something real happened
 4. **The programme** — last, and always attached to one of the above
 
+**With one split by medium.** ODD's best Instagram post is gratitude (121 likes);
+its worst is a feedback form (21). On email it inverts — "Everything You Need to
+Know" clicked 9.46% while lineup drops clicked 2%. So:
+
+> **Instagram carries the feeling. Email carries the instruction.**
+
+Posting admin to Instagram spends attention cheaply. Sending pure hype to a 60%-open
+email wastes the best asset ODD owns. Both are currently happening.
+
 This inverts how ODD has been marketing itself. Lineup drops were treated as the main
 event and they are the weakest content ODD produces.
 
@@ -128,7 +140,7 @@ ODD is both. That is the actual complication, and it resolves cleanly:
 
 | Channel | Who speaks | Audience | Job |
 |---|---|---|---|
-| **Instagram** | ODDfest, ODDspace — product brands | Creatives, artists, participants, members | The culture. Rooms, people, moments. |
+| **Instagram** — `@oddfest.co`, 4,409, the biggest channel | ODDfest, ODDspace — product brands | Creatives, artists, participants, members | The culture. Rooms, people, moments. **Carries the feeling, not the instruction.** |
 | **LinkedIn** | **People first**, ODD masterbrand second | Partners, delegates, funders, press, ODDagency clients | Credibility and revenue. |
 | **Newsletter** | ODD | Everyone, segmented | The destination. Not a channel — the place the others point. |
 | **Discord (ODDones, 315)** | Members | Insiders | Retention, not acquisition. Currently scoped to ODDfest; should be ODD. |
@@ -137,9 +149,13 @@ ODD is both. That is the actual complication, and it resolves cleanly:
 
 ### The uncomfortable part: people, not pages
 
-Ronny's personal LinkedIn post about ODDfest 2025 drew **533 reactions and 70
-comments**. The ODDfest company page has 3,341 followers and nothing approaching
-that. Buildspace's 2.5× person-over-programme multiplier says the same.
+Three independent channels, one result:
+
+| Evidence | Multiplier |
+|---|---|
+| Ronny's LinkedIn post on ODDfest 2025: **533 reactions, 70 comments**. Nothing on the 3,341-follower company page approaches it. | ~10× |
+| Ronny's Instagram post: **113 likes on 3,626 followers (3.1%)** vs `@oddfest.co`'s ~1.1% median. Third-party posts about ODD drew 114 and 135. | **2.5–3×** |
+| Buildspace: third-person participant stories, **13,162 likes vs 5,287**. | **2.5×** |
 
 **So LinkedIn is not a page. It is a squad.** Eleven core team members, plus the
 speakers, artists and members who already post voluntarily. The brand page exists to
@@ -261,9 +277,11 @@ Named now, so they get checked rather than defended.
 
 - **If D1 resolves to "All Things ODD is the roof brand"**, §5 needs rebuilding — the
   channel doctrine assumes ODD stays the masterbrand and products keep their names.
-- **If `@oddfest.fi` turns out to be large and engaged**, the claim that social is not
-  an acquisition channel weakens considerably. That capture is the biggest gap in the
-  repo and it is owed.
+- ~~If `@oddfest.fi` turns out to be large and engaged…~~ **Resolved 2026-09-10, and it
+  did change things.** The account is `@oddfest.co`, it has 4,409 followers, and the
+  handle on the live site does not exist. The "social is not an acquisition channel"
+  claim has been narrowed accordingly. The remaining risk is the reverse: the 12-post
+  sample is small, and the other 228 could tell a different story.
 - **If the September gate fails and ODDfest winds down**, the centre of gravity moves
   to ODDspace and ODDagency, and this plan needs re-pointing rather than editing.
 - **If the August 2025 import turns out not to have a consent basis for email**, the

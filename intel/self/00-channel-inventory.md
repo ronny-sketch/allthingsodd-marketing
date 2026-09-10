@@ -10,8 +10,10 @@ Anything not yet verified says so. Nothing here is estimated.
 | Channel | Handle / URL | Size | Label | Notes |
 |---|---|---|---|---|
 | **Newsletter** | `oddfest.beehiiv.com` — *ODDletters* | **1,514 active** (1,897 total) | `MEASURED` | Beehiiv export 2026-08-31. 60.9% median open. **Silent since 2026-06-22.** |
-| **LinkedIn** | `linkedin.com/company/oddfest` | **3,341 followers** | `OBSERVED` | Largest owned audience after the list. Named after one product. |
-| **Instagram** | `@oddfest.fi` | pending — capture blocked by rate limiting | — | Primary channel per the brief. |
+| **Instagram** | **`@oddfest.co`** | **4,409 followers**, 240 posts | `OBSERVED` | **ODD's largest owned audience.** See [instagram-audit.md](instagram-audit.md). |
+| **LinkedIn** | `linkedin.com/company/oddfest` | **3,341 followers** | `OBSERVED` | Named after one product. |
+| **Instagram** | `@oddfest.fi` | **does not exist** | `OBSERVED` | **The handle published on the live site.** Dead link on every page. |
+| **Instagram** | `@ronnytheodd` | **3,626 followers**, 286 posts | `OBSERVED` | Ronny's personal account — larger than the LinkedIn company page. |
 | **Instagram** | `@oddspace.co` | **510 followers**, 18 posts, following 1 | `OBSERVED` | 18 posts total. Effectively dormant. |
 | **Discord** | `discord.gg/ZXtkM6FjBw` — *ODDones* | **315 members, 32 online** | `OBSERVED` | Invite is non-expiring. Description scopes it to ODDfest, not ODD. |
 | **YouTube** | `@oddfest` | **24 subscribers, 12 videos** | `OBSERVED` | Functionally does not exist. |
