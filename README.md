@@ -1,30 +1,51 @@
 # All Things ODD — Marketing Intelligence
 
-Research and strategy repository for the launch of **All Things ODD** and the
-re-platforming of ODD's owned channels.
+Research and strategy for the launch of **All Things ODD** and the re-platforming of
+ODD's owned channels.
 
-This repo holds three things, in this order:
+**New here (human or AI): read [`AGENTS.md`](AGENTS.md) first.**
 
-1. **`intel/self/`** — what ODD has actually done, measured from ODD's own data.
-   Not recollection. Beehiiv exports, the live site, the real accounts.
-2. **`intel/benchmarks/`** — how comparable platforms built theirs, reconstructed
-   from primary sources.
-3. **`strategy/`** — what we do, derived from 1 and 2 and traceable back to them.
+## Read in this order
 
-`docs/method.md` sets the evidence standard. `DECISIONS.md` is the log of open
-and settled calls — read it before changing anything in `strategy/`.
+| | | |
+|---|---|---|
+| 1 | [`DECISIONS.md`](DECISIONS.md) | What's open and what's settled. **D1 blocks most of the rest.** |
+| 2 | [`strategy/00-marketing-logic.md`](strategy/00-marketing-logic.md) | The design: what the machine is and why it's shaped this way. |
+| 3 | [`intel/self/`](intel/self/) | What ODD has actually done, measured from ODD's own data. |
+| 4 | [`intel/benchmarks/`](intel/benchmarks/) | How comparable platforms built theirs, from primary sources. |
+| 5 | [`docs/roadmap.md`](docs/roadmap.md) | What happens next, in dependency order. |
+
+[`docs/method.md`](docs/method.md) sets the evidence standard — read it before adding
+anything to `intel/`.
+
+## The four findings that shaped the plan
+
+- **ODD doesn't have an awareness problem, it has a capture problem.** 5,000+ people
+  have been in an ODD room; 1,514 are reachable, and 84% of those arrived in one
+  August 2025 import.
+- **The newsletter is the best asset and the most neglected** — 60.9% median open
+  rate, silent for 80 days, acquiring 4.5 people a month.
+- **Lineup announcements are the worst-performing content ODD makes** (2–5% click)
+  and were treated as the main event. Utility and people clear 8–9.5%.
+- **Slush already built and killed the two sub-brands ODD is about to build.**
+  Soaked by Slush and Node by Slush are both 404.
 
 ## Status
 
-Started 2026-09-10. `intel/` is being filled first; `strategy/` stays empty
-until the intel is in, so the strategy can't quietly become opinion.
+| | |
+|---|---|
+| `intel/self/` | Newsletter audit complete. Channel inventory partial — Instagram post-level data missing. |
+| `intel/benchmarks/` | Buildspace complete (in the knowledge base). Slush first pass. Six not started. |
+| `strategy/` | Marketing logic written. Channel, newsletter, podcast and calendar docs pending D1. |
+
+`strategy/` was deliberately held empty until the first intel landed, so the strategy
+could not quietly become opinion. It now contains the reasoning layer only.
 
 ## Related repositories
 
 | Repo | What it holds |
 |---|---|
-| [`ronny-sketch/allthingsodd`](https://github.com/ronny-sketch/allthingsodd) | The website itself (Astro, live at allthingsodd.co) |
-| [`ronny-sketch/odd-growth-os`](https://github.com/ronny-sketch/odd-growth-os) | Commercial data layer — Attio, Beehiiv, GA4, Search Console pipelines |
-| `~/knowledge-base/wiki/projects/` | Wiki source of truth for projects, people, decisions |
+| [`ronny-sketch/allthingsodd`](https://github.com/ronny-sketch/allthingsodd) | The website (Astro, live at allthingsodd.co) |
+| `ronny-sketch/odd-growth-os` (private) | Commercial data layer — Attio, Beehiiv, GA4, Search Console |
 
 This repo does not duplicate those. It cites them.

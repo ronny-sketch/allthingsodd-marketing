@@ -13,7 +13,7 @@ Anything not yet verified says so. Nothing here is estimated.
 | **LinkedIn** | `linkedin.com/company/oddfest` | **3,341 followers** | `OBSERVED` | Largest owned audience after the list. Named after one product. |
 | **Instagram** | `@oddfest.fi` | pending — capture blocked by rate limiting | — | Primary channel per the brief. |
 | **Instagram** | `@oddspace.co` | **510 followers**, 18 posts, following 1 | `OBSERVED` | 18 posts total. Effectively dormant. |
-| **Discord** | `discord.gg/ZXtkM6FjBw` — *ODDones* | **315 members, 32 online** | `OBSERVED` | Invite is non-expiring. Created by Laura Fuentes. Description scopes it to ODDfest, not ODD. |
+| **Discord** | `discord.gg/ZXtkM6FjBw` — *ODDones* | **315 members, 32 online** | `OBSERVED` | Invite is non-expiring. Description scopes it to ODDfest, not ODD. |
 | **YouTube** | `@oddfest` | **24 subscribers, 12 videos** | `OBSERVED` | Functionally does not exist. |
 | **TikTok** | `@oddfest` | **does not resolve** | `OBSERVED` | See below — this is a live broken link on the production site. |
 | **Facebook** | `facebook.com/oddfest.fi` | not measured | — | Requires auth to measure reliably. |
